@@ -1,7 +1,7 @@
 Hi 👋 My name is Agustin Orsato
 ===============================
 
-SAP Technical Analyst and BackEnd Developer
+SAP Technical Analyst and Data Scientist
 -------------------------------------------
 
 Bachelor of Administration - Years of experience in the area of ​​Consulting and management of IT Projects. - Postgraduate in Project Management - SAP Business One - Sap R3 FI Other knowledge: -SQL - Python (Intermediate) - AWS -JAVA
@@ -10,7 +10,7 @@ Bachelor of Administration - Years of experience in the area of ​​Consulting
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/agusorsato/Ejemplo)
 * ✉️  You can contact me at [agustinorsato@gmail.com or www.linkedin.com/in/agustinorsato](mailto:agustinorsato@gmail.com or www.linkedin.com/in/agustinorsato)
 * 🧠  I'm learning Java
-* ⚡  I am discovering the world of backend development
+* ⚡  I am discovering the world of Data Scientist
 
 ### Skills
 
