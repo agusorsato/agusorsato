@@ -7,7 +7,7 @@ SAP Technical Analyst and Data Scientist
 Bachelor of Administration - Years of experience in the area of ​​Consulting and management of IT Projects. - Postgraduate in Project Management - SAP Business One - Sap R3 FI Other knowledge: -SQL - Python (Intermediate) - AWS -JAVA
 
 * 🌍  I'm based in Argentina
-* 🖥️  See my portfolio at [My Portfolio](http://github.com/agusorsato/Ejemplo)
+* 🖥️  See my portfolio at [My Portfolio](http://github.com/agusorsato/Proyectos)
 * ✉️  You can contact me at [agustinorsato@gmail.com or www.linkedin.com/in/agustinorsato](mailto:agustinorsato@gmail.com or www.linkedin.com/in/agustinorsato)
 * 🧠  I'm learning Java
 * ⚡  I am discovering the world of Data Scientist
