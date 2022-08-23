@@ -4,7 +4,7 @@ Hi 👋 My name is Agustin Orsato
 SAP Technical Analyst and Data Scientist
 -------------------------------------------
 
-Bachelor of Administration - Years of experience in the area of ​​Consulting and management of IT Projects. - Postgraduate in Project Management - SAP Business One - Sap R3 FI Other knowledge: -SQL - Python (Intermediate - Data Scientist) - AWS -JAVA
+Bachelor of Administration - Years of experience in the area of ​​Consulting and management of IT Projects. - Postgraduate in Project Management - SAP Business One - Sap R3 FI Other knowledge: -Jira -SQL -Python (Intermediate - Data Scientist) - AWS -JAVA
 
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/agusorsato/Proyectos)
